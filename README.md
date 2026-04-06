@@ -17,4 +17,4 @@ I'm currently learning C and Python, mastering the core fundamentals of both pro
 
 -> Get an internship 
 
--> Eventually become an app devoloper 
+-> Eventually become an app developer.
