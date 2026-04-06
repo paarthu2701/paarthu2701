@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello! :) 
+I am Paarthu, a university student at BITS Pilani - Dubai Campus. 
+I'm currently learning C and Python, mastering the core fundamentals of both programming languages. 
 
-<!--
-**paarthu2701/paarthu2701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Projects 📖
+-> Array Toolkit in C (This is a very basic toolkit with 1-D Arrays)
 
-Here are some ideas to get you started:
+## Currently learning 🧠
+-> Python
+-> C 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+-> Improve skills in coding further
+-> Solve massive real-world problems
+-> Get an internship 
+-> Eventually become an app devloper 
